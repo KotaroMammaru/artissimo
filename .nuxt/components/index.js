@@ -1,4 +1,5 @@
 export { default as NuxtLogo } from '../..\\components\\NuxtLogo.vue'
+export { default as Post } from '../..\\components\\Post.vue'
 export { default as Tutorial } from '../..\\components\\Tutorial.vue'
 
 // nuxt/nuxt.js#8607
