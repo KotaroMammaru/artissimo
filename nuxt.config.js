@@ -37,7 +37,7 @@ export default {
     imports: [
       {
         set: '@fortawesome/free-solid-svg-icons',
-        icons: ['fas'],
+        icons: ['faHouse', 'faHeart', 'faCog'],//['fas']だと全て読み込んでしまう
       },
     ],
   },

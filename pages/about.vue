@@ -10,6 +10,6 @@
 
 <style>
     .timeline{
-        background-color: rgba(189, 218, 218, 0.854);
+        background-color: rgba(180, 180, 180, 0.854);
     }
 </style>

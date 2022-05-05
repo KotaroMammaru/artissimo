@@ -17,6 +17,7 @@
 <style>
     .post{
         margin-bottom: 2vh;
+        background-color: white;
     }
     .post_bar{
         display: flex;
