@@ -1,6 +1,6 @@
 <template>
     <div class="timeline">
-        <!-- <TopBar /> -->
+        <TopBar />
         <h1>About Page</h1>
         <Post />
         <Post />
