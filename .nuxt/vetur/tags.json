@@ -1,4 +1,7 @@
 {
+  "Heart": {
+    "description": "Auto imported from components/Heart.vue"
+  },
   "NuxtLogo": {
     "description": "Auto imported from components/NuxtLogo.vue"
   },
