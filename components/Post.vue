@@ -9,7 +9,7 @@
             </div>
         </div>
         <div class="post_graph">
-            <img src="post_image.jpg">
+            <img src="/post_image.jpg">
         </div>
     </div>
 </template>
