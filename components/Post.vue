@@ -10,7 +10,6 @@
         </div>
         <div class="post_graph">
             <img src="post_image.jpg">
-            <img src="picasso.png">
         </div>
     </div>
 </template>
@@ -18,7 +17,6 @@
 <style>
     .post{
         margin-bottom: 2vh;
-        background-color: white;
     }
     .post_bar{
         display: flex;
