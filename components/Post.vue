@@ -10,6 +10,7 @@
         </div>
         <div class="post_graph">
             <img src="post_image.jpg">
+            <img src="picasso.png">
         </div>
     </div>
 </template>
