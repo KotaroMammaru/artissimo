@@ -1,3 +1,4 @@
+export { default as Heart } from '../..\\components\\Heart.vue'
 export { default as NuxtLogo } from '../..\\components\\NuxtLogo.vue'
 export { default as Post } from '../..\\components\\Post.vue'
 export { default as TopBar } from '../..\\components\\TopBar.vue'
