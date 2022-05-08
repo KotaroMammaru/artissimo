@@ -8,6 +8,12 @@
   "Post": {
     "description": "Auto imported from components/Post.vue"
   },
+  "SearchBar": {
+    "description": "Auto imported from components/SearchBar.vue"
+  },
+  "TenPosts": {
+    "description": "Auto imported from components/TenPosts.vue"
+  },
   "TopBar": {
     "description": "Auto imported from components/TopBar.vue"
   },

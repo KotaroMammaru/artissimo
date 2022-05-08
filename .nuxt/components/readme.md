@@ -9,5 +9,7 @@ You can directly use them in pages and other components without the need to impo
 - `<Heart>` | `<heart>` (components/Heart.vue)
 - `<NuxtLogo>` | `<nuxt-logo>` (components/NuxtLogo.vue)
 - `<Post>` | `<post>` (components/Post.vue)
+- `<SearchBar>` | `<search-bar>` (components/SearchBar.vue)
+- `<TenPosts>` | `<ten-posts>` (components/TenPosts.vue)
 - `<TopBar>` | `<top-bar>` (components/TopBar.vue)
 - `<Tutorial>` | `<tutorial>` (components/Tutorial.vue)
