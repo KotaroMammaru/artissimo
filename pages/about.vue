@@ -1,6 +1,5 @@
 <template>
     <div class="timeline">
-        <TopBar />
         <h1>About Page</h1>
         <Post />
         <Post />
