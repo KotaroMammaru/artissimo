@@ -1,3 +1,6 @@
 <template>
-  <Nuxt />
+  <v-app>
+    <TopBar />
+    <Nuxt />
+  </v-app>
 </template>
