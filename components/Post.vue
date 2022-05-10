@@ -81,12 +81,12 @@ export default {
 }
 .post_bar{
     display: flex;
-    height: 4vw;
+    height: 8vw;
 }
 .post_name{
     display: grid;
     place-items: right;
-    font-size: 3.5vw;
+    font-size: 7vw;
     bottom: 0%;
     padding-right: 1%;
     width: 100%;
@@ -94,8 +94,8 @@ export default {
 .post_user_icon{
     border-radius: 50%;
     margin-left: 1vw;
-    height: 4vw;
-    width: 4.5vw;
+    height: 8vw;
+    width: 9vw;
     overflow: hidden;
     position: relative;
 }

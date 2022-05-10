@@ -3,18 +3,21 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\Kotaro Maruyama\\\\Desktop\\\\train\\\\artissimo\\\\pages\\\\about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_40fc2eb0"
   },
   {
     "name": "search",
     "path": "/search",
     "component": "C:\\\\Users\\\\Kotaro Maruyama\\\\Desktop\\\\train\\\\artissimo\\\\pages\\\\search\\\\index.vue",
-    "chunkName": "pages/search/index"
+    "chunkName": "pages/search/index",
+    "_name": "_82089766"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Kotaro Maruyama\\\\Desktop\\\\train\\\\artissimo\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_60b40975"
   }
 ]
