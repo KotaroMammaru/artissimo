@@ -81,8 +81,4 @@
         margin-top: 3px;
         color: rgb(92, 92, 92);
     }
-    .nuxt-link{
-        display: flex;
-        color: rgb(95, 67, 0);
-    }
 </style>
