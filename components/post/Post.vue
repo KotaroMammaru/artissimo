@@ -1,9 +1,7 @@
 <template>
     <v-card class="post">
         <div class="post_bar">
-            <div class="post_user_icon" >
-                <img src="/icon.png">
-            </div>
+            <PostUserIcon />
             <div class="post_name">
                 username
             </div>
@@ -20,7 +18,7 @@
             </v-carousel>
         </div>
         <div class="post_action">
-            <Heart />
+            <PostHeart />
         </div>
         <v-card-title>title</v-card-title>
         <v-card-actions>
@@ -90,14 +88,6 @@ export default {
     bottom: 0%;
     padding-right: 1%;
     width: 100%;
-}
-.post_user_icon{
-    border-radius: 50%;
-    margin-left: 1vw;
-    height: 8vw;
-    width: 9vw;
-    overflow: hidden;
-    position: relative;
 }
 img{
     width: 100%;

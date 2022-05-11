@@ -12,7 +12,9 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {href:"https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap", rel:"stylesheet"},
+
     ]
   },
 
@@ -32,6 +34,7 @@ export default {
     '@nuxtjs/vuetify', 
   ],
   vuetify: {
+    treeShake: true,
     thema: {
       dark: true,
       

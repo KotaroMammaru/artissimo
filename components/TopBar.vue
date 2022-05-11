@@ -81,4 +81,7 @@
         margin-top: 3px;
         color: rgb(92, 92, 92);
     }
+    .v-application {
+        font-family: 'Noto Sans JP', sans-serif;
+    }
 </style>

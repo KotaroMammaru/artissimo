@@ -1,23 +1,26 @@
 {
-  "Heart": {
-    "description": "Auto imported from components/Heart.vue"
-  },
-  "NuxtLogo": {
-    "description": "Auto imported from components/NuxtLogo.vue"
-  },
-  "Post": {
-    "description": "Auto imported from components/Post.vue"
-  },
-  "SearchBar": {
-    "description": "Auto imported from components/SearchBar.vue"
-  },
-  "TenPosts": {
-    "description": "Auto imported from components/TenPosts.vue"
-  },
   "TopBar": {
     "description": "Auto imported from components/TopBar.vue"
   },
-  "Tutorial": {
-    "description": "Auto imported from components/Tutorial.vue"
+  "PostFollowButton": {
+    "description": "Auto imported from components/post/FollowButton.vue"
+  },
+  "PostHeart": {
+    "description": "Auto imported from components/post/Heart.vue"
+  },
+  "Post": {
+    "description": "Auto imported from components/post/Post.vue"
+  },
+  "PostUserIcon": {
+    "description": "Auto imported from components/post/UserIcon.vue"
+  },
+  "ReactionCard": {
+    "description": "Auto imported from components/reaction/Card.vue"
+  },
+  "SearchBar": {
+    "description": "Auto imported from components/search/SearchBar.vue"
+  },
+  "SearchTenPosts": {
+    "description": "Auto imported from components/search/TenPosts.vue"
   }
 }

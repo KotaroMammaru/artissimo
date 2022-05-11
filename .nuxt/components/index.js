@@ -1,10 +1,11 @@
-export { default as Heart } from '../..\\components\\Heart.vue'
-export { default as NuxtLogo } from '../..\\components\\NuxtLogo.vue'
-export { default as Post } from '../..\\components\\Post.vue'
-export { default as SearchBar } from '../..\\components\\SearchBar.vue'
-export { default as TenPosts } from '../..\\components\\TenPosts.vue'
 export { default as TopBar } from '../..\\components\\TopBar.vue'
-export { default as Tutorial } from '../..\\components\\Tutorial.vue'
+export { default as PostFollowButton } from '../..\\components\\post\\FollowButton.vue'
+export { default as PostHeart } from '../..\\components\\post\\Heart.vue'
+export { default as Post } from '../..\\components\\post\\Post.vue'
+export { default as PostUserIcon } from '../..\\components\\post\\UserIcon.vue'
+export { default as ReactionCard } from '../..\\components\\reaction\\Card.vue'
+export { default as SearchBar } from '../..\\components\\search\\SearchBar.vue'
+export { default as SearchTenPosts } from '../..\\components\\search\\TenPosts.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
