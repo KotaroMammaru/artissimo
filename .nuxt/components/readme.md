@@ -6,10 +6,11 @@ You can directly use them in pages and other components without the need to impo
 
 **Tip:** If a component is conditionally rendered with `v-if` and is big, it is better to use `Lazy` or `lazy-` prefix to lazy load.
 
-- `<Heart>` | `<heart>` (components/Heart.vue)
-- `<NuxtLogo>` | `<nuxt-logo>` (components/NuxtLogo.vue)
-- `<Post>` | `<post>` (components/Post.vue)
-- `<SearchBar>` | `<search-bar>` (components/SearchBar.vue)
-- `<TenPosts>` | `<ten-posts>` (components/TenPosts.vue)
 - `<TopBar>` | `<top-bar>` (components/TopBar.vue)
-- `<Tutorial>` | `<tutorial>` (components/Tutorial.vue)
+- `<PostFollowButton>` | `<post-follow-button>` (components/post/FollowButton.vue)
+- `<PostHeart>` | `<post-heart>` (components/post/Heart.vue)
+- `<Post>` | `<post>` (components/post/Post.vue)
+- `<PostUserIcon>` | `<post-user-icon>` (components/post/UserIcon.vue)
+- `<ReactionCard>` | `<reaction-card>` (components/reaction/Card.vue)
+- `<SearchBar>` | `<search-bar>` (components/search/SearchBar.vue)
+- `<SearchTenPosts>` | `<search-ten-posts>` (components/search/TenPosts.vue)

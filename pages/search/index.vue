@@ -1,6 +1,6 @@
 <template>
     <div class="search_posts">
         <SearchBar />
-        <TenPosts />
+        <SearchTenPosts />
     </div>
 </template>
