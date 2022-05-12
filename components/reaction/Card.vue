@@ -16,21 +16,21 @@
 .reaction_card{
     height: 20vw;
     display: grid;
-    grid-template-columns: 1fr 9fr 3fr;
+    grid-template-columns: 11vw 67vw 22vw;
 }
 .reaction.icon{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 3px;
+    padding: 1vw;
 }
 .reaction_f_button{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: auto;
+    padding: 5px;
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 .reaction_sentents{
