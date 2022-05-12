@@ -14,13 +14,13 @@
   "PostUserIcon": {
     "description": "Auto imported from components/post/UserIcon.vue"
   },
-  "ReactionCard": {
-    "description": "Auto imported from components/reaction/Card.vue"
-  },
   "SearchBar": {
     "description": "Auto imported from components/search/SearchBar.vue"
   },
   "SearchTenPosts": {
     "description": "Auto imported from components/search/TenPosts.vue"
+  },
+  "ReactionCard": {
+    "description": "Auto imported from components/reaction/Card.vue"
   }
 }

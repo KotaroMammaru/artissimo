@@ -22,7 +22,7 @@
                 v-model="group"
                 active-class="brown--text text--accent-4"
                 >
-                    <nuxt-link to="/about">
+                    <nuxt-link to="/home">
                         <v-list-item>
                             <v-list-item-icon>
                             <v-icon>mdi-home</v-icon>
