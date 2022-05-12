@@ -34,6 +34,7 @@
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 .reaction_sentents{
+    width: 67vw;
     padding: 3px;
     font-size: 4vw;
     display: flex;
