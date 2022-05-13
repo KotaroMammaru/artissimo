@@ -1,6 +1,7 @@
 <template>
     <div class="user_icon" >
-        <img src="/icon.png">
+        <v-img :src="`/icon.png`"
+        :lazy-src="`/icon.png`"></v-img>
     </div>
 </template>
 

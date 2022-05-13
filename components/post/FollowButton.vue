@@ -1,7 +1,7 @@
 <template>
     <v-btn 
     class="follow white--text" 
-    width="20vw"
+    width="25vw"
     color="#9E9D24"
     >
         <div class="follow_font">
@@ -12,6 +12,6 @@
 
 <style>
 .follow_font{
-    font-size: 20%;
+    font-size: 2vw;
 }
 </style>

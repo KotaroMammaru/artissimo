@@ -26,11 +26,11 @@ export default {
 .heart{
     position: relative;
     overflow: hidden;
-    height: 4vw;
+    height: 8vw;
     margin-left: 2vw;
 }
 .white_heart{
-    font-size: 3.6vw;
+    font-size: 7.2vw;
     color: white;
     position: absolute;
     left: 0.1vw;
@@ -38,12 +38,12 @@ export default {
 }
 .black_heart{
     color: rgb(145, 145, 145);
-    font-size: 4vw;
+    font-size: 8vw;
     position: absolute;
     margin: 0%;
 }
 .red_heart{
-    font-size: 3.6vw;
+    font-size: 7.2vw;
     color: rgb(255, 33, 118);
     position: absolute;
     left: 0.1vw;

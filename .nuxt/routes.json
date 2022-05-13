@@ -3,24 +3,28 @@
     "name": "home",
     "path": "/home",
     "component": "C:\\\\Users\\\\Kotaro Maruyama\\\\Desktop\\\\train\\\\artissimo\\\\pages\\\\home\\\\index.vue",
-    "chunkName": "pages/home/index"
+    "chunkName": "pages/home/index",
+    "_name": "_155c5914"
   },
   {
     "name": "reaction",
     "path": "/reaction",
     "component": "C:\\\\Users\\\\Kotaro Maruyama\\\\Desktop\\\\train\\\\artissimo\\\\pages\\\\reaction\\\\index.vue",
-    "chunkName": "pages/reaction/index"
+    "chunkName": "pages/reaction/index",
+    "_name": "_0ca43e6c"
   },
   {
     "name": "search",
     "path": "/search",
     "component": "C:\\\\Users\\\\Kotaro Maruyama\\\\Desktop\\\\train\\\\artissimo\\\\pages\\\\search\\\\index.vue",
-    "chunkName": "pages/search/index"
+    "chunkName": "pages/search/index",
+    "_name": "_82089766"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Kotaro Maruyama\\\\Desktop\\\\train\\\\artissimo\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_60b40975"
   }
 ]
