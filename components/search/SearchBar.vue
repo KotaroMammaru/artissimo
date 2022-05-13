@@ -1,15 +1,21 @@
 <template>
     <v-toolbar
         dark
-        color="teal">
-        <v-toolbar-title>探す</v-toolbar-title>
+        color="#9E9D24"
+        class="search_bar text-sm-body-2"
+        height="35vw"
+        >
+        <!-- <v-toolbar-title>
+          <div class="tool_bar_font">
+            探す
+          </div> 
+        </v-toolbar-title> -->
         <v-autocomplete
             v-model="select"
             :loading="loading"
             :items="items"
             :search-input.sync="search"
             cache-items
-            class="mx-4"
             flat
             hide-no-data
             hide-details
@@ -114,3 +120,12 @@
     },
   }
 </script>
+
+<style>
+.tool_bar_font{
+  /* font-size: 4vw; */
+}
+.mx-4.search{
+  font-size: 1vw;
+}
+</style>

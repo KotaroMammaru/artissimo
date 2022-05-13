@@ -11,6 +11,6 @@ You can directly use them in pages and other components without the need to impo
 - `<PostHeart>` | `<post-heart>` (components/post/Heart.vue)
 - `<Post>` | `<post>` (components/post/Post.vue)
 - `<PostUserIcon>` | `<post-user-icon>` (components/post/UserIcon.vue)
+- `<ReactionCard>` | `<reaction-card>` (components/reaction/Card.vue)
 - `<SearchBar>` | `<search-bar>` (components/search/SearchBar.vue)
 - `<SearchTenPosts>` | `<search-ten-posts>` (components/search/TenPosts.vue)
-- `<ReactionCard>` | `<reaction-card>` (components/reaction/Card.vue)

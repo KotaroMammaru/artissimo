@@ -16,7 +16,7 @@
 .reaction_card{
     height: 20vw;
     display: grid;
-    grid-template-columns: 11vw 67vw 22vw;
+    grid-template-columns: 11vw 62vw 27vw;
 }
 .reaction.icon{
     display: flex;
@@ -34,7 +34,7 @@
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 .reaction_sentents{
-    width: 67vw;
+    width: 62vw;
     padding: 3px;
     font-size: 4vw;
     display: flex;
